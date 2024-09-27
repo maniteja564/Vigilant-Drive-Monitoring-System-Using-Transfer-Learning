@@ -1,8 +1,6 @@
 # Vigilant-Drive-Monitoring-System-Using-Transfer-Learning
 Driver drowsiness detection is crucial for road safety. This study leverages transfer learning with pre-trained CNNs, fine-tuned to detect fatigue via facial features, eye movements, and head posture, improving accuracy and generalization in real-time. The approach offers a reliable, scalable solution to reduce accidents and save lives.
 
-# Driver Drowsiness Detection Using Transfer Learning with CNNs
-
 ## Introduction
 Driver drowsiness is one of the leading causes of road accidents globally. To mitigate this issue, we have developed an advanced **drowsiness detection system** that leverages the power of **transfer learning** combined with **Convolutional Neural Networks (CNNs)**. This system is designed to monitor real-time video input, track key facial and physiological features, and predict driver fatigue with high accuracy.
 

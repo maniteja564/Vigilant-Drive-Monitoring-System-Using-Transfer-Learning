@@ -54,19 +54,5 @@ To run this project on your local machine:
 - **OpenCV**
 - Pre-trained CNN model (e.g., **ResNet50, MobileNetV2**)
 
-### Installation:
-1. Clone the repository and navigate to the project directory:
-    ```bash
-    git clone https://github.com/yourusername/drowsiness-detection.git
-    cd drowsiness-detection
-    ```
-2. Install the necessary dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
-### Run the System:
-To run the real-time drowsiness detection system, execute the following command:
-```bash
-python drowsiness_detection.py
 

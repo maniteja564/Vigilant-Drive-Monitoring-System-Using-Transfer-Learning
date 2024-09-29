@@ -15,6 +15,9 @@ Driver drowsiness is one of the leading causes of road accidents globally. To mi
 2. **Fine-Tuning with Drowsiness Data**: The pre-trained model is then fine-tuned using a custom dataset focused on driver drowsiness indicators such as **eye closure rate, yawning frequency,** and **head tilt**.
 3. **Prediction**: Based on real-time inputs, the system predicts whether the driver is alert, drowsy, or needs immediate intervention.
 
+![image](https://github.com/user-attachments/assets/b347c1e8-55f4-4bb5-9e09-a11d6840ebb4)
+
+
 ## Dataset:
 The model is fine-tuned using a custom dataset specifically tailored for drowsiness detection. This dataset includes labeled images and videos capturing **eye closure patterns, head posture,** and other physiological indicators associated with fatigue.
 
